@@ -1,0 +1,31 @@
+p {
+  font-size: 50px;
+  color: Red;
+}
+.done{
+  color: green;
+  /* text-decoration: line-through; */
+}
+
+.urgent{
+  color: orange;
+
+}
+
+div.done{
+  /* display: none; */
+}
+
+li.done{
+  text-decoration: line-through;
+
+}
+#myDiv{
+  color: pink;
+}
+div p {
+  color: green;
+}
+.inline{
+  display:inline-block;
+}
