@@ -1,31 +1,32 @@
-p {
-  font-size: 50px;
-  color: Red;
-}
-.done{
-  color: green;
-  /* text-decoration: line-through; */
-}
+header{
+  background-color: #002156 ;
 
-.urgent{
-  color: orange;
+  width: 1000px;
+  height: 300px;
+  color: white;
+  text-align: center;
+
+
 
 }
 
-div.done{
-  /* display: none; */
+main{
+  background-color: #2161c6;
+
+  text-align: center;
+  width: 700px;
+
+  display: inline-block;
+
+
+
 }
 
-li.done{
-  text-decoration: line-through;
+aside{
+  background-color: #dded31;
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+  float: right;
 
-}
-#myDiv{
-  color: pink;
-}
-div p {
-  color: green;
-}
-.inline{
-  display:inline-block;
 }
